@@ -5,23 +5,11 @@ This project contains solutions to various problems sourced from the internet. I
 ## Project Details
 
 - **Language**: Java
-- **Framework**: Spring Boot
 - **Build Tool**: Maven
-
-## Structure
-
-- `src/main/java`: Contains the main application code.
-- `src/test/java`: Contains test cases for the application.
 
 ## Prerequisites
 
 To build and run this project, ensure you have the following installed:
 
-- Java Development Kit (JDK) 17 or higher
+- JDK 25 
 - Maven 3.6 or higher
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
